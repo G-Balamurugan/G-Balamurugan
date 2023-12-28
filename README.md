@@ -15,7 +15,7 @@
 
 - 📝 Enthusiastic Learner [.](.)
 
-- 💬 Ask me about **Python , Java , Flask , Mysql , SpringBoot**
+- 💬 Ask me about **Python , Java , Flask , Mysql**
 
 - 📫 How to reach me **balamurugan15042003@gmail.com**
 
