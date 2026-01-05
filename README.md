@@ -1,41 +1,87 @@
 [![MasterHead](https://digitaledgetech.in/images/New_Banner_02.gif)](https://g-balamurugan.in)
+
 <h1 align="center">Hi 👋, I'm Balamurugan G</h1>
-<h3 align="center">A budding Full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+<h3 align="center">Software Engineer | Backend & Distributed Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g-balamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="g-balamurugan" /> </p>
+<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Spring Boot**
-
-- 🌱 I’m currently learning **Solar**
-
-- 👨‍💻 Competitive Programmer [.](.)
-
-- 📝 Enthusiastic Learner [.](.)
-
-- 💬 Ask me about **Python , Java , Flask , Mysql**
-
-- 📫 How to reach me **balamurugan15042003@gmail.com**
-
-<h3 align="left">Coding platforms:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/bala_g_2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bala_g_2003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/balamurugan15042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="balamurugan15042" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bala_1543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bala_1543" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=g-balamurugan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-balamurugan&show_icons=true&locale=en&layout=compact" alt="g-balamurugan" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-balamurugan&show_icons=true&locale=en" alt="g-balamurugan" /></p>
+- Software Engineer focused on **backend systems & distributed architectures**
+- Building **scalable APIs, microservices, and async pipelines**
+- Daily work involves **databases, messaging, cloud, and observability**
+- Strong believer in **clean code, automation, and production readiness**
+- Solid foundation in **DSA and system design**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-balamurugan&" alt="g-balamurugan" /></p>
+---
+
+## 🛠 Technical Skills
+
+### ⭐ Daily / Primary (Production Use)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/datadog.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sumologic.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="38"/>
+</p>
+
+- **Backend:** Java, Spring Boot, Spring MVC  
+- **Scripting:** Python  
+- **Messaging:** Apache Kafka  
+- **Datastores:** MongoDB, Redis  
+- **Observability:** Datadog, Sumo Logic  
+- **Cloud & SCM:** AWS, Git  
+
+---
+
+### 💪 Strong Experience
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apachesolr.svg" width="34"/>
+</p>
+
+- **Databases:** PostgreSQL, MySQL  
+- **Containers:** Docker  
+- **Search:** Apache Solr  
+- **Persistence / ORM:** JPA / Hibernate, SQLAlchemy  
+- **CI/CD & Automation:** TeamCity, Rundeck  
+
+---
+
+### 📘 Hands-on / Familiar
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30"/>
+</p>
+
+- **Languages:** Kotlin, JavaScript  
+- **Python Frameworks:** Flask, Django  
+- **Frontend:** Vue.js, HTML, CSS  
+- **Testing:** JUnit, Cucumber  
+- **Tools:** Postman, Linux, Firebase  
+
+---
+
+## 📫 Contact
+- 📧 **balamurugan15042003@gmail.com**
+
+---
+
+> *Build backend systems that are observable, scalable, and production-ready.*
